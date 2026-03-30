@@ -1,5 +1,5 @@
 """
-API路由模块
+Módulo de rotas da API
 """
 
 from flask import Blueprint
